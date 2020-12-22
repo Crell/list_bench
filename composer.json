@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpbench/phpbench": "^0.17.1"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Crell\\list_bench\\Benchmarks\\": "benchmarks"
+        },
+        "files": ["functions.php"]
+    }
+}

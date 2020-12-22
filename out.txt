@@ -3,306 +3,33 @@ Using configuration file: /home/crell/Projects/list_bench/phpbench.json
 
 \Crell\list_bench\Benchmarks\BenchmarkArray
 
-[0G    bench_map_array # 0.....................I0 [0G    bench_map_array # 0.....................I1 [0G    bench_map_array # 0.....................I2 [μ Mo]/r: 0.003 0.004 (ms) [μSD μRSD]/r: 0.000ms 9.81%
-[1F[0K[0G    bench_map_array # 0.....................R2 I1 [0G    bench_map_array # 0.....................R2 I2 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.001ms 19.47%
-[1F[0K[0G    bench_map_array # 0.....................R2 I1 [0G    bench_map_array # 0.....................R2 I2 [μ Mo]/r: 0.005 0.005 (ms) [μSD μRSD]/r: 0.001ms 17.75%
-[1F[0K[0G    bench_map_array # 0.....................R2 I0 [0G    bench_map_array # 0.....................R2 I1 [μ Mo]/r: 0.005 0.004 (ms) [μSD μRSD]/r: 0.001ms 26.59%
-[1F[0K[0G    bench_map_array # 0.....................R3 I0 [0G    bench_map_array # 0.....................R3 I1 [0G    bench_map_array # 0.....................R3 I2 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.001ms 23.98%
-[1F[0K[0G    bench_map_array # 0.....................R2 I0 [0G    bench_map_array # 0.....................R2 I1 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.001ms 12.99%
-[1F[0K[0G    bench_map_array # 0.....................R3 I0 [0G    bench_map_array # 0.....................R3 I1 [0G    bench_map_array # 0.....................R3 I2 [μ Mo]/r: 0.009 0.005 (ms) [μSD μRSD]/r: 0.006ms 63.91%
-[1F[0K[0G    bench_map_array # 0.....................R3 I0 [0G    bench_map_array # 0.....................R3 I1 [0G    bench_map_array # 0.....................R3 I2 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.001ms 21.63%
-[1F[0K[0G    bench_map_array # 0.....................R3 I0 [0G    bench_map_array # 0.....................R3 I1 [0G    bench_map_array # 0.....................R3 I2 [μ Mo]/r: 0.004 0.003 (ms) [μSD μRSD]/r: 0.001ms 21.05%
-[1F[0K[0G    bench_map_array # 0.....................R2 I0 [0G    bench_map_array # 0.....................R2 I2 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.001ms 18.53%
-[1F[0K[0G    bench_map_array # 0.....................R2 I0 [0G    bench_map_array # 0.....................R2 I2 [μ Mo]/r: 0.005 0.004 (ms) [μSD μRSD]/r: 0.001ms 23.39%
-[1F[0K[0G    bench_map_array # 0.....................R3 I0 [0G    bench_map_array # 0.....................R3 I1 [0G    bench_map_array # 0.....................R3 I2 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.001ms 14.18%
-[1F[0K[0G    bench_map_array # 0.....................R2 I0 [0G    bench_map_array # 0.....................R2 I1 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.000ms 1.20%
-[0G    bench_map_array # 1.....................R2 I0 [0G    bench_map_array # 1.....................R2 I1 [0G    bench_map_array # 1.....................R2 I2 [μ Mo]/r: 0.038 0.045 (ms) [μSD μRSD]/r: 0.012ms 33.03%
-[1F[0K[0G    bench_map_array # 1.....................R3 I0 [0G    bench_map_array # 1.....................R3 I1 [0G    bench_map_array # 1.....................R3 I2 [μ Mo]/r: 0.027 0.024 (ms) [μSD μRSD]/r: 0.004ms 15.42%
-[1F[0K[0G    bench_map_array # 1.....................R3 I0 [0G    bench_map_array # 1.....................R3 I1 [0G    bench_map_array # 1.....................R3 I2 [μ Mo]/r: 0.048 0.052 (ms) [μSD μRSD]/r: 0.008ms 16.24%
-[1F[0K[0G    bench_map_array # 1.....................R3 I0 [0G    bench_map_array # 1.....................R3 I1 [0G    bench_map_array # 1.....................R3 I2 [μ Mo]/r: 0.034 0.032 (ms) [μSD μRSD]/r: 0.011ms 32.50%
-[1F[0K[0G    bench_map_array # 1.....................R2 I1 [0G    bench_map_array # 1.....................R2 I2 [μ Mo]/r: 0.031 0.033 (ms) [μSD μRSD]/r: 0.004ms 11.33%
-[1F[0K[0G    bench_map_array # 1.....................R3 I0 [0G    bench_map_array # 1.....................R3 I1 [0G    bench_map_array # 1.....................R3 I2 [μ Mo]/r: 0.037 0.030 (ms) [μSD μRSD]/r: 0.015ms 39.81%
-[1F[0K[0G    bench_map_array # 1.....................R3 I0 [0G    bench_map_array # 1.....................R3 I1 [0G    bench_map_array # 1.....................R3 I2 [μ Mo]/r: 0.040 0.042 (ms) [μSD μRSD]/r: 0.007ms 18.80%
-[1F[0K[0G    bench_map_array # 1.....................R2 I1 [0G    bench_map_array # 1.....................R2 I2 [μ Mo]/r: 0.027 0.022 (ms) [μSD μRSD]/r: 0.010ms 34.84%
-[1F[0K[0G    bench_map_array # 1.....................R3 I0 [0G    bench_map_array # 1.....................R3 I1 [0G    bench_map_array # 1.....................R3 I2 [μ Mo]/r: 0.066 0.048 (ms) [μSD μRSD]/r: 0.037ms 55.53%
-[1F[0K[0G    bench_map_array # 1.....................R3 I0 [0G    bench_map_array # 1.....................R3 I1 [0G    bench_map_array # 1.....................R3 I2 [μ Mo]/r: 0.035 0.025 (ms) [μSD μRSD]/r: 0.018ms 50.16%
-[1F[0K[0G    bench_map_array # 1.....................R3 I0 [0G    bench_map_array # 1.....................R3 I1 [0G    bench_map_array # 1.....................R3 I2 [μ Mo]/r: 0.038 0.035 (ms) [μSD μRSD]/r: 0.005ms 13.19%
-[1F[0K[0G    bench_map_array # 1.....................R3 I0 [0G    bench_map_array # 1.....................R3 I1 [0G    bench_map_array # 1.....................R3 I2 [μ Mo]/r: 0.023 0.022 (ms) [μSD μRSD]/r: 0.001ms 2.53%
-[0G    bench_map_array # 2.....................R3 I0 [0G    bench_map_array # 2.....................R3 I1 [0G    bench_map_array # 2.....................R3 I2 [μ Mo]/r: 0.081 0.079 (ms) [μSD μRSD]/r: 0.004ms 4.57%
-[1F[0K[0G    bench_map_array # 2.....................R1 I0 [μ Mo]/r: 0.080 0.079 (ms) [μSD μRSD]/r: 0.002ms 2.33%
-[0G    bench_map_array # 3.....................R1 I0 [0G    bench_map_array # 3.....................R1 I1 [0G    bench_map_array # 3.....................R1 I2 [μ Mo]/r: 0.141 0.149 (ms) [μSD μRSD]/r: 0.019ms 13.14%
-[1F[0K[0G    bench_map_array # 3.....................R2 I0 [0G    bench_map_array # 3.....................R2 I2 [μ Mo]/r: 0.201 0.219 (ms) [μSD μRSD]/r: 0.041ms 20.44%
-[1F[0K[0G    bench_map_array # 3.....................R3 I0 [0G    bench_map_array # 3.....................R3 I1 [0G    bench_map_array # 3.....................R3 I2 [μ Mo]/r: 0.214 0.172 (ms) [μSD μRSD]/r: 0.101ms 47.45%
-[1F[0K[0G    bench_map_array # 3.....................R3 I0 [0G    bench_map_array # 3.....................R3 I1 [0G    bench_map_array # 3.....................R3 I2 [μ Mo]/r: 0.188 0.221 (ms) [μSD μRSD]/r: 0.057ms 30.30%
-[1F[0K[0G    bench_map_array # 3.....................R3 I0 [0G    bench_map_array # 3.....................R3 I1 [0G    bench_map_array # 3.....................R3 I2 [μ Mo]/r: 0.197 0.210 (ms) [μSD μRSD]/r: 0.030ms 15.05%
-[1F[0K[0G    bench_map_array # 3.....................R2 I0 [0G    bench_map_array # 3.....................R2 I2 [μ Mo]/r: 0.188 0.197 (ms) [μSD μRSD]/r: 0.018ms 9.69%
-[1F[0K[0G    bench_map_array # 3.....................R2 I1 [0G    bench_map_array # 3.....................R2 I2 [μ Mo]/r: 0.182 0.191 (ms) [μSD μRSD]/r: 0.017ms 9.13%
-[1F[0K[0G    bench_map_array # 3.....................R3 I0 [0G    bench_map_array # 3.....................R3 I1 [0G    bench_map_array # 3.....................R3 I2 [μ Mo]/r: 0.177 0.153 (ms) [μSD μRSD]/r: 0.057ms 32.33%
-[1F[0K[0G    bench_map_array # 3.....................R3 I0 [0G    bench_map_array # 3.....................R3 I1 [0G    bench_map_array # 3.....................R3 I2 [μ Mo]/r: 0.120 0.111 (ms) [μSD μRSD]/r: 0.017ms 14.15%
-[1F[0K[0G    bench_map_array # 3.....................R3 I0 [0G    bench_map_array # 3.....................R3 I1 [0G    bench_map_array # 3.....................R3 I2 [μ Mo]/r: 0.141 0.156 (ms) [μSD μRSD]/r: 0.032ms 22.65%
-[1F[0K[0G    bench_map_array # 3.....................R3 I0 [0G    bench_map_array # 3.....................R3 I1 [0G    bench_map_array # 3.....................R3 I2 [μ Mo]/r: 0.197 0.185 (ms) [μSD μRSD]/r: 0.024ms 12.27%
-[1F[0K[0G    bench_map_array # 3.....................R2 I0 [0G    bench_map_array # 3.....................R2 I2 [μ Mo]/r: 0.183 0.194 (ms) [μSD μRSD]/r: 0.029ms 16.06%
-[1F[0K[0G    bench_map_array # 3.....................R2 I0 [0G    bench_map_array # 3.....................R2 I2 [μ Mo]/r: 0.157 0.169 (ms) [μSD μRSD]/r: 0.029ms 18.37%
-[1F[0K[0G    bench_map_array # 3.....................R2 I1 [0G    bench_map_array # 3.....................R2 I2 [μ Mo]/r: 0.173 0.164 (ms) [μSD μRSD]/r: 0.016ms 9.16%
-[1F[0K[0G    bench_map_array # 3.....................R2 I1 [0G    bench_map_array # 3.....................R2 I2 [μ Mo]/r: 0.146 0.141 (ms) [μSD μRSD]/r: 0.013ms 9.15%
-[1F[0K[0G    bench_map_array # 3.....................R2 I0 [0G    bench_map_array # 3.....................R2 I2 [μ Mo]/r: 0.156 0.161 (ms) [μSD μRSD]/r: 0.009ms 6.00%
-[1F[0K[0G    bench_map_array # 3.....................R2 I1 [0G    bench_map_array # 3.....................R2 I2 [μ Mo]/r: 0.145 0.154 (ms) [μSD μRSD]/r: 0.016ms 11.37%
-[1F[0K[0G    bench_map_array # 3.....................R2 I0 [0G    bench_map_array # 3.....................R2 I2 [μ Mo]/r: 0.164 0.154 (ms) [μSD μRSD]/r: 0.018ms 11.06%
-[1F[0K[0G    bench_map_array # 3.....................R3 I0 [0G    bench_map_array # 3.....................R3 I1 [0G    bench_map_array # 3.....................R3 I2 [μ Mo]/r: 0.127 0.124 (ms) [μSD μRSD]/r: 0.008ms 6.66%
-[1F[0K[0G    bench_map_array # 3.....................R2 I0 [0G    bench_map_array # 3.....................R2 I1 [μ Mo]/r: 0.161 0.147 (ms) [μSD μRSD]/r: 0.033ms 20.51%
-[1F[0K[0G    bench_map_array # 3.....................R3 I0 [0G    bench_map_array # 3.....................R3 I1 [0G    bench_map_array # 3.....................R3 I2 [μ Mo]/r: 0.146 0.166 (ms) [μSD μRSD]/r: 0.036ms 24.86%
-[1F[0K[0G    bench_map_array # 3.....................R3 I0 [0G    bench_map_array # 3.....................R3 I1 [0G    bench_map_array # 3.....................R3 I2 [μ Mo]/r: 0.202 0.190 (ms) [μSD μRSD]/r: 0.027ms 13.30%
-[1F[0K[0G    bench_map_array # 3.....................R2 I1 [0G    bench_map_array # 3.....................R2 I2 [μ Mo]/r: 0.154 0.141 (ms) [μSD μRSD]/r: 0.030ms 19.11%
-[1F[0K[0G    bench_map_array # 3.....................R3 I0 [0G    bench_map_array # 3.....................R3 I1 [0G    bench_map_array # 3.....................R3 I2 [μ Mo]/r: 0.166 0.165 (ms) [μSD μRSD]/r: 0.005ms 3.28%
-[0G    bench_map_array # 4.....................R3 I0 [0G    bench_map_array # 4.....................R3 I1 [0G    bench_map_array # 4.....................R3 I2 [μ Mo]/r: 1.200 1.126 (ms) [μSD μRSD]/r: 0.259ms 21.55%
-[1F[0K[0G    bench_map_array # 4.....................R2 I0 [0G    bench_map_array # 4.....................R2 I1 [μ Mo]/r: 1.146 1.172 (ms) [μSD μRSD]/r: 0.050ms 4.38%
-[1F[0K[0G    bench_map_array # 4.....................R1 I0 [μ Mo]/r: 1.046 1.155 (ms) [μSD μRSD]/r: 0.191ms 18.27%
-[1F[0K[0G    bench_map_array # 4.....................R3 I0 [0G    bench_map_array # 4.....................R3 I1 [0G    bench_map_array # 4.....................R3 I2 [μ Mo]/r: 1.978 2.180 (ms) [μSD μRSD]/r: 0.487ms 24.60%
-[1F[0K[0G    bench_map_array # 4.....................R3 I0 [0G    bench_map_array # 4.....................R3 I1 [0G    bench_map_array # 4.....................R3 I2 [μ Mo]/r: 1.074 1.117 (ms) [μSD μRSD]/r: 0.076ms 7.05%
-[1F[0K[0G    bench_map_array # 4.....................R2 I0 [0G    bench_map_array # 4.....................R2 I2 [μ Mo]/r: 1.221 1.159 (ms) [μSD μRSD]/r: 0.113ms 9.22%
-[1F[0K[0G    bench_map_array # 4.....................R2 I0 [0G    bench_map_array # 4.....................R2 I1 [μ Mo]/r: 1.347 1.184 (ms) [μSD μRSD]/r: 0.281ms 20.88%
-[1F[0K[0G    bench_map_array # 4.....................R3 I0 [0G    bench_map_array # 4.....................R3 I1 [0G    bench_map_array # 4.....................R3 I2 [μ Mo]/r: 1.178 1.309 (ms) [μSD μRSD]/r: 0.235ms 19.93%
-[1F[0K[0G    bench_map_array # 4.....................R3 I0 [0G    bench_map_array # 4.....................R3 I1 [0G    bench_map_array # 4.....................R3 I2 [μ Mo]/r: 1.082 1.123 (ms) [μSD μRSD]/r: 0.147ms 13.56%
-[1F[0K[0G    bench_map_array # 4.....................R2 I1 [0G    bench_map_array # 4.....................R2 I2 [μ Mo]/r: 1.073 1.130 (ms) [μSD μRSD]/r: 0.183ms 17.08%
-[1F[0K[0G    bench_map_array # 4.....................R2 I1 [0G    bench_map_array # 4.....................R2 I2 [μ Mo]/r: 1.335 1.148 (ms) [μSD μRSD]/r: 0.323ms 24.21%
-[1F[0K[0G    bench_map_array # 4.....................R3 I0 [0G    bench_map_array # 4.....................R3 I1 [0G    bench_map_array # 4.....................R3 I2 [μ Mo]/r: 3.680 2.559 (ms) [μSD μRSD]/r: 2.465ms 66.97%
-[1F[0K[0G    bench_map_array # 4.....................R3 I0 [0G    bench_map_array # 4.....................R3 I1 [0G    bench_map_array # 4.....................R3 I2 [μ Mo]/r: 3.219 3.046 (ms) [μSD μRSD]/r: 0.348ms 10.82%
-[1F[0K[0G    bench_map_array # 4.....................R2 I0 [0G    bench_map_array # 4.....................R2 I1 [μ Mo]/r: 3.492 3.282 (ms) [μSD μRSD]/r: 0.408ms 11.68%
-[1F[0K[0G    bench_map_array # 4.....................R2 I0 [0G    bench_map_array # 4.....................R2 I2 [μ Mo]/r: 2.569 3.022 (ms) [μSD μRSD]/r: 0.832ms 32.38%
-[1F[0K[0G    bench_map_array # 4.....................R3 I0 [0G    bench_map_array # 4.....................R3 I1 [0G    bench_map_array # 4.....................R3 I2 [μ Mo]/r: 1.137 1.231 (ms) [μSD μRSD]/r: 0.212ms 18.66%
-[1F[0K[0G    bench_map_array # 4.....................R3 I0 [0G    bench_map_array # 4.....................R3 I1 [0G    bench_map_array # 4.....................R3 I2 [μ Mo]/r: 0.967 1.091 (ms) [μSD μRSD]/r: 0.266ms 27.48%
-[1F[0K[0G    bench_map_array # 4.....................R3 I0 [0G    bench_map_array # 4.....................R3 I1 [0G    bench_map_array # 4.....................R3 I2 [μ Mo]/r: 0.984 0.936 (ms) [μSD μRSD]/r: 0.196ms 19.89%
-[1F[0K[0G    bench_map_array # 4.....................R2 I1 [0G    bench_map_array # 4.....................R2 I2 [μ Mo]/r: 0.986 0.964 (ms) [μSD μRSD]/r: 0.039ms 3.95%
-[1F[0K[0G    bench_map_array # 4.....................R1 I1 [μ Mo]/r: 0.877 0.944 (ms) [μSD μRSD]/r: 0.115ms 13.10%
-[1F[0K[0G    bench_map_array # 4.....................R3 I0 [0G    bench_map_array # 4.....................R3 I1 [0G    bench_map_array # 4.....................R3 I2 [μ Mo]/r: 0.872 0.864 (ms) [μSD μRSD]/r: 0.015ms 1.71%
-[0G    bench_map_array # 5.....................R3 I0 [0G    bench_map_array # 5.....................R3 I1 [0G    bench_map_array # 5.....................R3 I2 [μ Mo]/r: 1.484 1.357 (ms) [μSD μRSD]/r: 0.224ms 15.10%
-[1F[0K[0G    bench_map_array # 5.....................R3 I0 [0G    bench_map_array # 5.....................R3 I1 [0G    bench_map_array # 5.....................R3 I2 [μ Mo]/r: 1.476 1.434 (ms) [μSD μRSD]/r: 0.082ms 5.54%
-[1F[0K[0G    bench_map_array # 5.....................R2 I0 [0G    bench_map_array # 5.....................R2 I1 [μ Mo]/r: 1.351 1.385 (ms) [μSD μRSD]/r: 0.085ms 6.26%
-[1F[0K[0G    bench_map_array # 5.....................R2 I0 [0G    bench_map_array # 5.....................R2 I2 [μ Mo]/r: 1.412 1.372 (ms) [μSD μRSD]/r: 0.070ms 4.97%
-[1F[0K[0G    bench_map_array # 5.....................R1 I0 [μ Mo]/r: 1.630 1.412 (ms) [μSD μRSD]/r: 0.378ms 23.21%
-[1F[0K[0G    bench_map_array # 5.....................R3 I0 [0G    bench_map_array # 5.....................R3 I1 [0G    bench_map_array # 5.....................R3 I2 [μ Mo]/r: 2.408 1.814 (ms) [μSD μRSD]/r: 1.026ms 42.60%
-[1F[0K[0G    bench_map_array # 5.....................R3 I0 [0G    bench_map_array # 5.....................R3 I1 [0G    bench_map_array # 5.....................R3 I2 [μ Mo]/r: 1.263 1.118 (ms) [μSD μRSD]/r: 0.259ms 20.52%
-[1F[0K[0G    bench_map_array # 5.....................R3 I0 [0G    bench_map_array # 5.....................R3 I1 [0G    bench_map_array # 5.....................R3 I2 [μ Mo]/r: 1.497 1.243 (ms) [μSD μRSD]/r: 0.452ms 30.21%
-[1F[0K[0G    bench_map_array # 5.....................R3 I0 [0G    bench_map_array # 5.....................R3 I1 [0G    bench_map_array # 5.....................R3 I2 [μ Mo]/r: 1.632 1.453 (ms) [μSD μRSD]/r: 0.321ms 19.65%
-[1F[0K[0G    bench_map_array # 5.....................R3 I0 [0G    bench_map_array # 5.....................R3 I1 [0G    bench_map_array # 5.....................R3 I2 [μ Mo]/r: 1.326 1.333 (ms) [μSD μRSD]/r: 0.113ms 8.54%
-[1F[0K[0G    bench_map_array # 5.....................R2 I0 [0G    bench_map_array # 5.....................R2 I1 [μ Mo]/r: 1.338 1.329 (ms) [μSD μRSD]/r: 0.016ms 1.21%
-[0G    bench_map_array # 6.....................R2 I0 [0G    bench_map_array # 6.....................R2 I1 [0G    bench_map_array # 6.....................R2 I2 [μ Mo]/r: 12.078 11.924 (ms) [μSD μRSD]/r: 1.637ms 13.55%
-[1F[0K[0G    bench_map_array # 6.....................R2 I0 [0G    bench_map_array # 6.....................R2 I1 [μ Mo]/r: 12.851 11.743 (ms) [μSD μRSD]/r: 2.179ms 16.96%
-[1F[0K[0G    bench_map_array # 6.....................R3 I0 [0G    bench_map_array # 6.....................R3 I1 [0G    bench_map_array # 6.....................R3 I2 [μ Mo]/r: 10.560 9.972 (ms) [μSD μRSD]/r: 1.055ms 9.99%
-[1F[0K[0G    bench_map_array # 6.....................R3 I0 [0G    bench_map_array # 6.....................R3 I1 [0G    bench_map_array # 6.....................R3 I2 [μ Mo]/r: 14.037 14.233 (ms) [μSD μRSD]/r: 1.248ms 8.89%
-[1F[0K[0G    bench_map_array # 6.....................R2 I0 [0G    bench_map_array # 6.....................R2 I2 [μ Mo]/r: 15.314 15.169 (ms) [μSD μRSD]/r: 1.002ms 6.54%
-[1F[0K[0G    bench_map_array # 6.....................R2 I0 [0G    bench_map_array # 6.....................R2 I1 [μ Mo]/r: 16.295 14.882 (ms) [μSD μRSD]/r: 2.813ms 17.27%
-[1F[0K[0G    bench_map_array # 6.....................R3 I0 [0G    bench_map_array # 6.....................R3 I1 [0G    bench_map_array # 6.....................R3 I2 [μ Mo]/r: 18.729 17.322 (ms) [μSD μRSD]/r: 4.598ms 24.55%
-[1F[0K[0G    bench_map_array # 6.....................R2 I1 [0G    bench_map_array # 6.....................R2 I2 [μ Mo]/r: 13.723 12.468 (ms) [μSD μRSD]/r: 3.293ms 24.00%
-[1F[0K[0G    bench_map_array # 6.....................R3 I0 [0G    bench_map_array # 6.....................R3 I1 [0G    bench_map_array # 6.....................R3 I2 [μ Mo]/r: 11.516 10.900 (ms) [μSD μRSD]/r: 1.189ms 10.33%
-[1F[0K[0G    bench_map_array # 6.....................R2 I1 [0G    bench_map_array # 6.....................R2 I2 [μ Mo]/r: 10.242 9.925 (ms) [μSD μRSD]/r: 0.561ms 5.48%
-[1F[0K[0G    bench_map_array # 6.....................R1 I0 [μ Mo]/r: 10.231 9.923 (ms) [μSD μRSD]/r: 0.545ms 5.33%
-[1F[0K[0G    bench_map_array # 6.....................R1 I0 [μ Mo]/r: 10.886 10.041 (ms) [μSD μRSD]/r: 1.470ms 13.50%
-[1F[0K[0G    bench_map_array # 6.....................R3 I0 [0G    bench_map_array # 6.....................R3 I1 [0G    bench_map_array # 6.....................R3 I2 [μ Mo]/r: 16.036 17.141 (ms) [μSD μRSD]/r: 1.918ms 11.96%
-[1F[0K[0G    bench_map_array # 6.....................R3 I0 [0G    bench_map_array # 6.....................R3 I1 [0G    bench_map_array # 6.....................R3 I2 [μ Mo]/r: 11.573 10.883 (ms) [μSD μRSD]/r: 1.209ms 10.45%
-[1F[0K[0G    bench_map_array # 6.....................R3 I0 [0G    bench_map_array # 6.....................R3 I1 [0G    bench_map_array # 6.....................R3 I2 [μ Mo]/r: 11.565 11.454 (ms) [μSD μRSD]/r: 0.193ms 1.67%
-[0G    bench_map_array # 7.....................R3 I0 [0G    bench_map_array # 7.....................R3 I1 [0G    bench_map_array # 7.....................R3 I2 [μ Mo]/r: 119.855 111.968 (ms) [μSD μRSD]/r: 15.816ms 13.20%
-[1F[0K[0G    bench_map_array # 7.....................R2 I1 [0G    bench_map_array # 7.....................R2 I2 [μ Mo]/r: 123.299 121.893 (ms) [μSD μRSD]/r: 7.818ms 6.34%
-[1F[0K[0G    bench_map_array # 7.....................R2 I0 [0G    bench_map_array # 7.....................R2 I1 [μ Mo]/r: 119.243 123.615 (ms) [μSD μRSD]/r: 8.399ms 7.04%
-[1F[0K[0G    bench_map_array # 7.....................R2 I0 [0G    bench_map_array # 7.....................R2 I1 [μ Mo]/r: 119.464 125.152 (ms) [μSD μRSD]/r: 14.238ms 11.92%
-[1F[0K[0G    bench_map_array # 7.....................R2 I0 [0G    bench_map_array # 7.....................R2 I1 [μ Mo]/r: 118.392 122.527 (ms) [μSD μRSD]/r: 7.283ms 6.15%
-[1F[0K[0G    bench_map_array # 7.....................R2 I0 [0G    bench_map_array # 7.....................R2 I1 [μ Mo]/r: 122.670 122.773 (ms) [μSD μRSD]/r: 10.193ms 8.31%
-[1F[0K[0G    bench_map_array # 7.....................R2 I0 [0G    bench_map_array # 7.....................R2 I1 [μ Mo]/r: 153.700 136.997 (ms) [μSD μRSD]/r: 32.141ms 20.91%
-[1F[0K[0G    bench_map_array # 7.....................R3 I0 [0G    bench_map_array # 7.....................R3 I1 [0G    bench_map_array # 7.....................R3 I2 [μ Mo]/r: 127.660 121.053 (ms) [μSD μRSD]/r: 11.651ms 9.13%
-[1F[0K[0G    bench_map_array # 7.....................R3 I0 [0G    bench_map_array # 7.....................R3 I1 [0G    bench_map_array # 7.....................R3 I2 [μ Mo]/r: 165.051 156.068 (ms) [μSD μRSD]/r: 21.632ms 13.11%
-[1F[0K[0G    bench_map_array # 7.....................R2 I1 [0G    bench_map_array # 7.....................R2 I2 [μ Mo]/r: 149.301 154.557 (ms) [μSD μRSD]/r: 10.540ms 7.06%
-[1F[0K[0G    bench_map_array # 7.....................R2 I0 [0G    bench_map_array # 7.....................R2 I1 [μ Mo]/r: 139.277 146.919 (ms) [μSD μRSD]/r: 14.573ms 10.46%
-[1F[0K[0G    bench_map_array # 7.....................R2 I0 [0G    bench_map_array # 7.....................R2 I2 [μ Mo]/r: 134.009 130.072 (ms) [μSD μRSD]/r: 8.533ms 6.37%
-[1F[0K[0G    bench_map_array # 7.....................R2 I1 [0G    bench_map_array # 7.....................R2 I2 [μ Mo]/r: 133.671 129.354 (ms) [μSD μRSD]/r: 12.611ms 9.43%
-[1F[0K[0G    bench_map_array # 7.....................R2 I1 [0G    bench_map_array # 7.....................R2 I2 [μ Mo]/r: 140.370 144.018 (ms) [μSD μRSD]/r: 6.313ms 4.50%
-[1F[0K[0G    bench_map_array # 7.....................R1 I0 [μ Mo]/r: 147.316 145.287 (ms) [μSD μRSD]/r: 3.520ms 2.39%
+    bench_map_array # 0.....................R2 I1
+crell@vulcan:~/Projects/list_bench$ time vendor/bin/phpbench run
+PhpBench @git_tag@. Running benchmarks.
+Using configuration file: /home/crell/Projects/list_bench/phpbench.json
+
+\Crell\list_bench\Benchmarks\BenchmarkArray
+
+    bench_map_array # 0.....................I2 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.000ms 3.23%
+    bench_map_array # 1.....................I2 [μ Mo]/r: 0.034 0.034 (ms) [μSD μRSD]/r: 0.000ms 1.26%
+    bench_map_array # 2.....................R2 I2 [μ Mo]/r: 0.076 0.076 (ms) [μSD μRSD]/r: 0.002ms 2.33%
+    bench_map_array # 3.....................R3 I2 [μ Mo]/r: 0.157 0.157 (ms) [μSD μRSD]/r: 0.005ms 3.25%
+    bench_map_array # 4.....................R2 I2 [μ Mo]/r: 0.670 0.683 (ms) [μSD μRSD]/r: 0.023ms 3.51%
+    bench_map_array # 5.....................R3 I2 [μ Mo]/r: 1.584 1.570 (ms) [μSD μRSD]/r: 0.042ms 2.68%
+    bench_map_array # 6.....................R1 I1 [μ Mo]/r: 13.075 13.094 (ms) [μSD μRSD]/r: 0.377ms 2.88%
+    bench_map_array # 7.....................R2 I2 [μ Mo]/r: 142.209 145.071 (ms) [μSD μRSD]/r: 4.938ms 3.47%
 
 \Crell\list_bench\Benchmarks\BenchmarkGenerator
 
-[0G    bench_map_generator # 0.................R1 I0 [0G    bench_map_generator # 0.................R1 I1 [0G    bench_map_generator # 0.................R1 I2 [μ Mo]/r: 0.005 0.004 (ms) [μSD μRSD]/r: 0.001ms 17.17%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.008 0.008 (ms) [μSD μRSD]/r: 0.001ms 12.02%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.005 0.004 (ms) [μSD μRSD]/r: 0.002ms 36.83%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.007 (ms) [μSD μRSD]/r: 0.001ms 12.33%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.004 (ms) [μSD μRSD]/r: 0.002ms 32.68%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.004 (ms) [μSD μRSD]/r: 0.002ms 33.38%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.001ms 12.91%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.071 0.018 (ms) [μSD μRSD]/r: 0.091ms 128.91%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.006 (ms) [μSD μRSD]/r: 0.001ms 18.45%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I1 [μ Mo]/r: 0.005 0.006 (ms) [μSD μRSD]/r: 0.001ms 17.88%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.005 (ms) [μSD μRSD]/r: 0.002ms 31.92%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.004 (ms) [μSD μRSD]/r: 0.001ms 19.78%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.005 (ms) [μSD μRSD]/r: 0.002ms 35.98%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.000ms 6.70%
-[1F[0K[0G    bench_map_generator # 0.................R2 I1 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.001ms 16.06%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.007 (ms) [μSD μRSD]/r: 0.002ms 26.78%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I1 [μ Mo]/r: 0.010 0.012 (ms) [μSD μRSD]/r: 0.003ms 24.77%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.008 0.008 (ms) [μSD μRSD]/r: 0.001ms 14.56%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I1 [μ Mo]/r: 0.008 0.008 (ms) [μSD μRSD]/r: 0.001ms 19.44%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.008 0.007 (ms) [μSD μRSD]/r: 0.002ms 21.19%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.007 (ms) [μSD μRSD]/r: 0.002ms 36.25%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.001ms 21.20%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.001ms 19.65%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.001ms 15.47%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.005 (ms) [μSD μRSD]/r: 0.002ms 31.22%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.008 0.006 (ms) [μSD μRSD]/r: 0.004ms 56.45%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.007 (ms) [μSD μRSD]/r: 0.002ms 28.44%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.004 (ms) [μSD μRSD]/r: 0.002ms 34.71%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.005 (ms) [μSD μRSD]/r: 0.001ms 20.45%
-[1F[0K[0G    bench_map_generator # 0.................R2 I1 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.005 0.005 (ms) [μSD μRSD]/r: 0.001ms 14.07%
-[1F[0K[0G    bench_map_generator # 0.................R2 I1 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.000ms 8.29%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.002ms 27.15%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.007 (ms) [μSD μRSD]/r: 0.001ms 14.49%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I1 [μ Mo]/r: 0.006 0.007 (ms) [μSD μRSD]/r: 0.002ms 27.15%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.007 (ms) [μSD μRSD]/r: 0.002ms 30.25%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.001ms 17.94%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.005 (ms) [μSD μRSD]/r: 0.003ms 43.48%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.005 (ms) [μSD μRSD]/r: 0.002ms 35.21%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.010 0.006 (ms) [μSD μRSD]/r: 0.006ms 58.60%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.005 (ms) [μSD μRSD]/r: 0.000ms 7.13%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.005 0.005 (ms) [μSD μRSD]/r: 0.001ms 18.46%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.000ms 4.51%
-[1F[0K[0G    bench_map_generator # 0.................R1 I1 [μ Mo]/r: 0.005 0.006 (ms) [μSD μRSD]/r: 0.001ms 13.69%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.005 (ms) [μSD μRSD]/r: 0.002ms 28.78%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.019 0.007 (ms) [μSD μRSD]/r: 0.021ms 112.72%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.007 (ms) [μSD μRSD]/r: 0.002ms 32.93%
-[1F[0K[0G    bench_map_generator # 0.................R2 I1 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.005 0.006 (ms) [μSD μRSD]/r: 0.001ms 19.26%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I1 [μ Mo]/r: 0.006 0.005 (ms) [μSD μRSD]/r: 0.002ms 33.24%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.008 0.007 (ms) [μSD μRSD]/r: 0.001ms 12.44%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.006 (ms) [μSD μRSD]/r: 0.001ms 22.69%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.001ms 24.27%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.006 (ms) [μSD μRSD]/r: 0.001ms 18.40%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.007 (ms) [μSD μRSD]/r: 0.003ms 36.92%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.006 0.007 (ms) [μSD μRSD]/r: 0.001ms 24.55%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.001ms 12.81%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.001ms 18.71%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.001ms 22.21%
-[1F[0K[0G    bench_map_generator # 0.................R2 I1 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.001ms 12.02%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.008 0.010 (ms) [μSD μRSD]/r: 0.003ms 36.89%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.008 0.009 (ms) [μSD μRSD]/r: 0.002ms 21.58%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.005 (ms) [μSD μRSD]/r: 0.001ms 11.93%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.005 0.005 (ms) [μSD μRSD]/r: 0.001ms 11.21%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.007 (ms) [μSD μRSD]/r: 0.001ms 12.53%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.008 0.010 (ms) [μSD μRSD]/r: 0.003ms 37.18%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.001ms 14.29%
-[1F[0K[0G    bench_map_generator # 0.................R2 I1 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.001ms 22.04%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.006 (ms) [μSD μRSD]/r: 0.001ms 18.71%
-[1F[0K[0G    bench_map_generator # 0.................R2 I1 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.010 0.008 (ms) [μSD μRSD]/r: 0.004ms 38.54%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.002ms 22.29%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.004 (ms) [μSD μRSD]/r: 0.002ms 37.34%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.007 (ms) [μSD μRSD]/r: 0.001ms 15.33%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.002ms 30.40%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.004 (ms) [μSD μRSD]/r: 0.001ms 19.78%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.005 (ms) [μSD μRSD]/r: 0.001ms 15.58%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.000ms 10.63%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.001ms 13.81%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.008 0.009 (ms) [μSD μRSD]/r: 0.003ms 36.66%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.001ms 19.09%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.064 0.037 (ms) [μSD μRSD]/r: 0.056ms 87.47%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.001ms 10.63%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I1 [μ Mo]/r: 0.007 0.007 (ms) [μSD μRSD]/r: 0.001ms 19.26%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.009 0.007 (ms) [μSD μRSD]/r: 0.002ms 27.08%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.006 (ms) [μSD μRSD]/r: 0.001ms 11.08%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.009 0.008 (ms) [μSD μRSD]/r: 0.001ms 12.69%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.005 (ms) [μSD μRSD]/r: 0.002ms 38.47%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.002ms 27.39%
-[1F[0K[0G    bench_map_generator # 0.................R2 I1 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.006 0.005 (ms) [μSD μRSD]/r: 0.002ms 30.53%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.002ms 30.58%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.005 0.004 (ms) [μSD μRSD]/r: 0.001ms 17.50%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.003ms 35.72%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.001ms 22.66%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.000ms 8.13%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.002ms 27.78%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.008 (ms) [μSD μRSD]/r: 0.001ms 12.17%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.008 0.008 (ms) [μSD μRSD]/r: 0.001ms 15.19%
-[1F[0K[0G    bench_map_generator # 0.................R2 I1 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.007 0.007 (ms) [μSD μRSD]/r: 0.001ms 12.99%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.007 0.007 (ms) [μSD μRSD]/r: 0.001ms 15.13%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.001ms 12.91%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.007 (ms) [μSD μRSD]/r: 0.002ms 29.10%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.008 0.007 (ms) [μSD μRSD]/r: 0.002ms 22.24%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.007 0.006 (ms) [μSD μRSD]/r: 0.001ms 16.84%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.006 0.006 (ms) [μSD μRSD]/r: 0.002ms 34.17%
-[1F[0K[0G    bench_map_generator # 0.................R2 I1 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.008 0.007 (ms) [μSD μRSD]/r: 0.002ms 21.46%
-[1F[0K[0G    bench_map_generator # 0.................R3 I0 [0G    bench_map_generator # 0.................R3 I1 [0G    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.000ms 7.48%
-[1F[0K[0G    bench_map_generator # 0.................R2 I0 [0G    bench_map_generator # 0.................R2 I2 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.000ms 1.26%
-[0G    bench_map_generator # 1.................R2 I0 [0G    bench_map_generator # 1.................R2 I1 [0G    bench_map_generator # 1.................R2 I2 [μ Mo]/r: 0.040 0.043 (ms) [μSD μRSD]/r: 0.007ms 17.97%
-[1F[0K[0G    bench_map_generator # 1.................R3 I0 [0G    bench_map_generator # 1.................R3 I1 [0G    bench_map_generator # 1.................R3 I2 [μ Mo]/r: 0.037 0.035 (ms) [μSD μRSD]/r: 0.004ms 12.00%
-[1F[0K[0G    bench_map_generator # 1.................R3 I0 [0G    bench_map_generator # 1.................R3 I1 [0G    bench_map_generator # 1.................R3 I2 [μ Mo]/r: 0.032 0.028 (ms) [μSD μRSD]/r: 0.008ms 24.35%
-[1F[0K[0G    bench_map_generator # 1.................R3 I0 [0G    bench_map_generator # 1.................R3 I1 [0G    bench_map_generator # 1.................R3 I2 [μ Mo]/r: 0.043 0.049 (ms) [μSD μRSD]/r: 0.011ms 26.43%
-[1F[0K[0G    bench_map_generator # 1.................R3 I0 [0G    bench_map_generator # 1.................R3 I1 [0G    bench_map_generator # 1.................R3 I2 [μ Mo]/r: 0.036 0.032 (ms) [μSD μRSD]/r: 0.008ms 21.51%
-[1F[0K[0G    bench_map_generator # 1.................R3 I0 [0G    bench_map_generator # 1.................R3 I1 [0G    bench_map_generator # 1.................R3 I2 [μ Mo]/r: 0.043 0.039 (ms) [μSD μRSD]/r: 0.013ms 29.06%
-[1F[0K[0G    bench_map_generator # 1.................R2 I0 [0G    bench_map_generator # 1.................R2 I2 [μ Mo]/r: 0.041 0.041 (ms) [μSD μRSD]/r: 0.011ms 25.82%
-[1F[0K[0G    bench_map_generator # 1.................R2 I0 [0G    bench_map_generator # 1.................R2 I2 [μ Mo]/r: 0.043 0.040 (ms) [μSD μRSD]/r: 0.008ms 17.45%
-[1F[0K[0G    bench_map_generator # 1.................R2 I0 [0G    bench_map_generator # 1.................R2 I2 [μ Mo]/r: 0.050 0.044 (ms) [μSD μRSD]/r: 0.010ms 19.82%
-[1F[0K[0G    bench_map_generator # 1.................R3 I0 [0G    bench_map_generator # 1.................R3 I1 [0G    bench_map_generator # 1.................R3 I2 [μ Mo]/r: 0.041 0.036 (ms) [μSD μRSD]/r: 0.010ms 24.33%
-[1F[0K[0G    bench_map_generator # 1.................R3 I0 [0G    bench_map_generator # 1.................R3 I1 [0G    bench_map_generator # 1.................R3 I2 [μ Mo]/r: 0.058 0.066 (ms) [μSD μRSD]/r: 0.018ms 30.97%
-[1F[0K[0G    bench_map_generator # 1.................R3 I0 [0G    bench_map_generator # 1.................R3 I1 [0G    bench_map_generator # 1.................R3 I2 [μ Mo]/r: 0.046 0.045 (ms) [μSD μRSD]/r: 0.002ms 3.47%
-[0G    bench_map_generator # 2.................R3 I0 [0G    bench_map_generator # 2.................R3 I1 [0G    bench_map_generator # 2.................R3 I2 [μ Mo]/r: 0.113 0.121 (ms) [μSD μRSD]/r: 0.021ms 18.62%
-[1F[0K[0G    bench_map_generator # 2.................R2 I0 [0G    bench_map_generator # 2.................R2 I2 [μ Mo]/r: 0.111 0.117 (ms) [μSD μRSD]/r: 0.011ms 9.49%
-[1F[0K[0G    bench_map_generator # 2.................R3 I0 [0G    bench_map_generator # 2.................R3 I1 [0G    bench_map_generator # 2.................R3 I2 [μ Mo]/r: 0.103 0.095 (ms) [μSD μRSD]/r: 0.014ms 13.81%
-[1F[0K[0G    bench_map_generator # 2.................R3 I0 [0G    bench_map_generator # 2.................R3 I1 [0G    bench_map_generator # 2.................R3 I2 [μ Mo]/r: 0.101 0.112 (ms) [μSD μRSD]/r: 0.023ms 23.30%
-[1F[0K[0G    bench_map_generator # 2.................R3 I0 [0G    bench_map_generator # 2.................R3 I1 [0G    bench_map_generator # 2.................R3 I2 [μ Mo]/r: 0.100 0.108 (ms) [μSD μRSD]/r: 0.015ms 14.86%
-[1F[0K[0G    bench_map_generator # 2.................R3 I0 [0G    bench_map_generator # 2.................R3 I1 [0G    bench_map_generator # 2.................R3 I2 [μ Mo]/r: 0.138 0.112 (ms) [μSD μRSD]/r: 0.049ms 35.98%
-[1F[0K[0G    bench_map_generator # 2.................R3 I0 [0G    bench_map_generator # 2.................R3 I1 [0G    bench_map_generator # 2.................R3 I2 [μ Mo]/r: 0.119 0.120 (ms) [μSD μRSD]/r: 0.003ms 2.21%
-[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.245 0.234 (ms) [μSD μRSD]/r: 0.018ms 7.33%
-[1F[0K[0G    bench_map_generator # 3.................R2 I0 [0G    bench_map_generator # 3.................R2 I1 [μ Mo]/r: 0.263 0.276 (ms) [μSD μRSD]/r: 0.022ms 8.36%
-[1F[0K[0G    bench_map_generator # 3.................R2 I0 [0G    bench_map_generator # 3.................R2 I2 [μ Mo]/r: 0.195 0.162 (ms) [μSD μRSD]/r: 0.057ms 29.28%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.224 0.229 (ms) [μSD μRSD]/r: 0.037ms 16.57%
-[1F[0K[0G    bench_map_generator # 3.................R2 I0 [0G    bench_map_generator # 3.................R2 I2 [μ Mo]/r: 0.229 0.222 (ms) [μSD μRSD]/r: 0.035ms 15.14%
-[1F[0K[0G    bench_map_generator # 3.................R2 I0 [0G    bench_map_generator # 3.................R2 I2 [μ Mo]/r: 0.185 0.182 (ms) [μSD μRSD]/r: 0.033ms 17.95%
-[1F[0K[0G    bench_map_generator # 3.................R2 I1 [0G    bench_map_generator # 3.................R2 I2 [μ Mo]/r: 0.201 0.184 (ms) [μSD μRSD]/r: 0.030ms 15.05%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.230 0.223 (ms) [μSD μRSD]/r: 0.013ms 5.62%
-[1F[0K[0G    bench_map_generator # 3.................R2 I0 [0G    bench_map_generator # 3.................R2 I1 [μ Mo]/r: 0.212 0.227 (ms) [μSD μRSD]/r: 0.029ms 13.60%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.304 0.329 (ms) [μSD μRSD]/r: 0.076ms 24.98%
-[1F[0K[0G    bench_map_generator # 3.................R2 I0 [0G    bench_map_generator # 3.................R2 I1 [μ Mo]/r: 0.208 0.164 (ms) [μSD μRSD]/r: 0.077ms 36.88%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.222 0.222 (ms) [μSD μRSD]/r: 0.034ms 15.27%
-[1F[0K[0G    bench_map_generator # 3.................R2 I1 [0G    bench_map_generator # 3.................R2 I2 [μ Mo]/r: 0.239 0.223 (ms) [μSD μRSD]/r: 0.029ms 12.12%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.289 0.303 (ms) [μSD μRSD]/r: 0.028ms 9.70%
-[1F[0K[0G    bench_map_generator # 3.................R2 I0 [0G    bench_map_generator # 3.................R2 I1 [μ Mo]/r: 0.568 0.316 (ms) [μSD μRSD]/r: 0.442ms 77.81%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.237 0.205 (ms) [μSD μRSD]/r: 0.063ms 26.56%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.349 0.312 (ms) [μSD μRSD]/r: 0.065ms 18.54%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.433 0.255 (ms) [μSD μRSD]/r: 0.311ms 71.90%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.186 0.207 (ms) [μSD μRSD]/r: 0.039ms 20.75%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.172 0.151 (ms) [μSD μRSD]/r: 0.038ms 21.91%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.256 0.278 (ms) [μSD μRSD]/r: 0.038ms 14.76%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.225 0.220 (ms) [μSD μRSD]/r: 0.015ms 6.50%
-[1F[0K[0G    bench_map_generator # 3.................R2 I0 [0G    bench_map_generator # 3.................R2 I2 [μ Mo]/r: 0.192 0.208 (ms) [μSD μRSD]/r: 0.030ms 15.77%
-[1F[0K[0G    bench_map_generator # 3.................R3 I0 [0G    bench_map_generator # 3.................R3 I1 [0G    bench_map_generator # 3.................R3 I2 [μ Mo]/r: 0.189 0.200 (ms) [μSD μRSD]/r: 0.039ms 20.56%
-[1F[0K[0G    bench_map_generator # 3.................R2 I1 [0G    bench_map_generator # 3.................R2 I2 [μ Mo]/r: 0.193 0.196 (ms) [μSD μRSD]/r: 0.041ms 21.25%
-[1F[0K[0G    bench_map_generator # 3.................R2 I1 [0G    bench_map_generator # 3.................R2 I2 [μ Mo]/r: 0.198 0.199 (ms) [μSD μRSD]/r: 0.003ms 1.55%
-[0G    bench_map_generator # 4.................R2 I0 [0G    bench_map_generator # 4.................R2 I1 [0G    bench_map_generator # 4.................R2 I2 [μ Mo]/r: 0.955 0.833 (ms) [μSD μRSD]/r: 0.214ms 22.38%
-[1F[0K[0G    bench_map_generator # 4.................R3 I0 [0G    bench_map_generator # 4.................R3 I1 [0G    bench_map_generator # 4.................R3 I2 [μ Mo]/r: 1.103 1.181 (ms) [μSD μRSD]/r: 0.143ms 13.01%
-[1F[0K[0G    bench_map_generator # 4.................R3 I0 [0G    bench_map_generator # 4.................R3 I1 [0G    bench_map_generator # 4.................R3 I2 [μ Mo]/r: 0.787 0.813 (ms) [μSD μRSD]/r: 0.064ms 8.12%
-[1F[0K[0G    bench_map_generator # 4.................R2 I0 [0G    bench_map_generator # 4.................R2 I1 [μ Mo]/r: 0.952 1.005 (ms) [μSD μRSD]/r: 0.111ms 11.66%
-[1F[0K[0G    bench_map_generator # 4.................R2 I1 [0G    bench_map_generator # 4.................R2 I2 [μ Mo]/r: 1.042 1.005 (ms) [μSD μRSD]/r: 0.066ms 6.29%
-[1F[0K[0G    bench_map_generator # 4.................R2 I0 [0G    bench_map_generator # 4.................R2 I2 [μ Mo]/r: 1.195 1.242 (ms) [μSD μRSD]/r: 0.148ms 12.41%
-[1F[0K[0G    bench_map_generator # 4.................R2 I1 [0G    bench_map_generator # 4.................R2 I2 [μ Mo]/r: 1.159 1.194 (ms) [μSD μRSD]/r: 0.064ms 5.50%
-[1F[0K[0G    bench_map_generator # 4.................R2 I0 [0G    bench_map_generator # 4.................R2 I2 [μ Mo]/r: 1.078 1.146 (ms) [μSD μRSD]/r: 0.123ms 11.42%
-[1F[0K[0G    bench_map_generator # 4.................R3 I0 [0G    bench_map_generator # 4.................R3 I1 [0G    bench_map_generator # 4.................R3 I2 [μ Mo]/r: 1.161 1.191 (ms) [μSD μRSD]/r: 0.053ms 4.53%
-[1F[0K[0G    bench_map_generator # 4.................R1 I2 [μ Mo]/r: 1.219 1.203 (ms) [μSD μRSD]/r: 0.030ms 2.46%
-[0G    bench_map_generator # 5.................R1 I0 [0G    bench_map_generator # 5.................R1 I1 [0G    bench_map_generator # 5.................R1 I2 [μ Mo]/r: 2.054 2.003 (ms) [μSD μRSD]/r: 0.247ms 12.02%
-[1F[0K[0G    bench_map_generator # 5.................R2 I0 [0G    bench_map_generator # 5.................R2 I1 [μ Mo]/r: 2.371 2.468 (ms) [μSD μRSD]/r: 0.258ms 10.90%
-[1F[0K[0G    bench_map_generator # 5.................R2 I1 [0G    bench_map_generator # 5.................R2 I2 [μ Mo]/r: 3.226 2.519 (ms) [μSD μRSD]/r: 1.226ms 38.01%
-[1F[0K[0G    bench_map_generator # 5.................R3 I0 [0G    bench_map_generator # 5.................R3 I1 [0G    bench_map_generator # 5.................R3 I2 [μ Mo]/r: 3.098 2.824 (ms) [μSD μRSD]/r: 0.919ms 29.65%
-[1F[0K[0G    bench_map_generator # 5.................R2 I1 [0G    bench_map_generator # 5.................R2 I2 [μ Mo]/r: 2.772 2.860 (ms) [μSD μRSD]/r: 0.188ms 6.77%
-[1F[0K[0G    bench_map_generator # 5.................R2 I0 [0G    bench_map_generator # 5.................R2 I1 [μ Mo]/r: 3.218 2.905 (ms) [μSD μRSD]/r: 0.540ms 16.79%
-[1F[0K[0G    bench_map_generator # 5.................R3 I0 [0G    bench_map_generator # 5.................R3 I1 [0G    bench_map_generator # 5.................R3 I2 [μ Mo]/r: 3.748 3.134 (ms) [μSD μRSD]/r: 1.261ms 33.64%
-[1F[0K[0G    bench_map_generator # 5.................R3 I0 [0G    bench_map_generator # 5.................R3 I1 [0G    bench_map_generator # 5.................R3 I2 [μ Mo]/r: 10.156 10.690 (ms) [μSD μRSD]/r: 4.014ms 39.53%
-[1F[0K[0G    bench_map_generator # 5.................R2 I1 [0G    bench_map_generator # 5.................R2 I2 [μ Mo]/r: 6.569 5.927 (ms) [μSD μRSD]/r: 3.000ms 45.68%
-[1F[0K[0G    bench_map_generator # 5.................R2 I0 [0G    bench_map_generator # 5.................R2 I1 [μ Mo]/r: 4.839 5.892 (ms) [μSD μRSD]/r: 1.839ms 38.00%
-[1F[0K[0G    bench_map_generator # 5.................R3 I0 [0G    bench_map_generator # 5.................R3 I1 [0G    bench_map_generator # 5.................R3 I2 [μ Mo]/r: 3.862 3.120 (ms) [μSD μRSD]/r: 1.344ms 34.81%
-[1F[0K[0G    bench_map_generator # 5.................R3 I0 [0G    bench_map_generator # 5.................R3 I1 [0G    bench_map_generator # 5.................R3 I2 [μ Mo]/r: 2.502 2.552 (ms) [μSD μRSD]/r: 0.097ms 3.88%
-[1F[0K[0G    bench_map_generator # 5.................R1 I0 [μ Mo]/r: 2.697 2.593 (ms) [μSD μRSD]/r: 0.182ms 6.75%
-[1F[0K[0G    bench_map_generator # 5.................R2 I0 [0G    bench_map_generator # 5.................R2 I2 [μ Mo]/r: 2.505 2.477 (ms) [μSD μRSD]/r: 0.067ms 2.69%
-[0G    bench_map_generator # 6.................R2 I0 [0G    bench_map_generator # 6.................R2 I1 [0G    bench_map_generator # 6.................R2 I2 [μ Mo]/r: 25.762 19.919 (ms) [μSD μRSD]/r: 10.777ms 41.83%
-[1F[0K[0G    bench_map_generator # 6.................R3 I0 [0G    bench_map_generator # 6.................R3 I1 [0G    bench_map_generator # 6.................R3 I2 [μ Mo]/r: 19.161 19.612 (ms) [μSD μRSD]/r: 2.451ms 12.79%
-[1F[0K[0G    bench_map_generator # 6.................R2 I0 [0G    bench_map_generator # 6.................R2 I1 [μ Mo]/r: 27.629 20.943 (ms) [μSD μRSD]/r: 11.589ms 41.94%
-[1F[0K[0G    bench_map_generator # 6.................R3 I0 [0G    bench_map_generator # 6.................R3 I1 [0G    bench_map_generator # 6.................R3 I2 [μ Mo]/r: 37.692 43.064 (ms) [μSD μRSD]/r: 9.352ms 24.81%
-[1F[0K[0G    bench_map_generator # 6.................R3 I0 [0G    bench_map_generator # 6.................R3 I1 [0G    bench_map_generator # 6.................R3 I2 [μ Mo]/r: 23.426 21.221 (ms) [μSD μRSD]/r: 4.832ms 20.63%
-[1F[0K[0G    bench_map_generator # 6.................R3 I0 [0G    bench_map_generator # 6.................R3 I1 [0G    bench_map_generator # 6.................R3 I2 [μ Mo]/r: 20.607 19.708 (ms) [μSD μRSD]/r: 1.774ms 8.61%
-[1F[0K[0G    bench_map_generator # 6.................R2 I0 [0G    bench_map_generator # 6.................R2 I1 [μ Mo]/r: 19.936 19.913 (ms) [μSD μRSD]/r: 0.877ms 4.40%
-[1F[0K[0G    bench_map_generator # 6.................R2 I0 [0G    bench_map_generator # 6.................R2 I1 [μ Mo]/r: 20.434 20.638 (ms) [μSD μRSD]/r: 0.362ms 1.77%
-[0G    bench_map_generator # 7.................R2 I0 [0G    bench_map_generator # 7.................R2 I1 [0G    bench_map_generator # 7.................R2 I2 [μ Mo]/r: 331.381 282.991 (ms) [μSD μRSD]/r: 84.422ms 25.48%
-[1F[0K[0G    bench_map_generator # 7.................R3 I0 [0G    bench_map_generator # 7.................R3 I1 [0G    bench_map_generator # 7.................R3 I2 [μ Mo]/r: 251.402 219.317 (ms) [μSD μRSD]/r: 55.446ms 22.05%
-[1F[0K[0G    bench_map_generator # 7.................R3 I0 [0G    bench_map_generator # 7.................R3 I1 [0G    bench_map_generator # 7.................R3 I2 [μ Mo]/r: 195.933 202.107 (ms) [μSD μRSD]/r: 13.712ms 7.00%
-[1F[0K[0G    bench_map_generator # 7.................R2 I0 [0G    bench_map_generator # 7.................R2 I2 [μ Mo]/r: 212.810 192.711 (ms) [μSD μRSD]/r: 44.097ms 20.72%
-[1F[0K[0G    bench_map_generator # 7.................R3 I0 [0G    bench_map_generator # 7.................R3 I1 [0G    bench_map_generator # 7.................R3 I2 
+    bench_map_generator # 0.................R3 I2 [μ Mo]/r: 0.004 0.004 (ms) [μSD μRSD]/r: 0.000ms 3.14%
+    bench_map_generator # 1.................R1 I0 [μ Mo]/r: 0.049 0.049 (ms) [μSD μRSD]/r: 0.001ms 1.51%
+    bench_map_generator # 2.................R3 I2 [μ Mo]/r: 0.109 0.111 (ms) [μSD μRSD]/r: 0.003ms 2.75%
+    bench_map_generator # 3.................R1 I0 [μ Mo]/r: 0.258 0.257 (ms) [μSD μRSD]/r: 0.002ms 0.87%
+    bench_map_generator # 4.................R3 I2 [μ Mo]/r: 1.532 1.517 (ms) [μSD μRSD]/r: 0.026ms 1.70%
+    bench_map_generator # 5.................R3 I2 [μ Mo]/r: 1.720 1.700 (ms) [μSD μRSD]/r: 0.049ms 2.85%
+    bench_map_generator # 6.................R2 I2 [μ Mo]/r: 13.568 13.607 (ms) [μSD μRSD]/r: 0.143ms 1.06%
+    bench_map_generator # 7.................R3 I2 [μ Mo]/r: 190.604 187.182 (ms) [μSD μRSD]/r: 6.108ms 3.20%
+
+2 subjects, 48 iterations, 160 revs, 0 rejects, 0 failures, 0 warnings
+(best [mean mode] worst) = 3.700 [22,853.379 22,819.740] 4.000 (μs)
+⅀T: 1,096,962.200μs μSD/r 732.494μs μRSD/r: 2.481%
